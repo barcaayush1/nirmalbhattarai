@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/barcaayush1/nirmalbhattarai/static/css/main.12b3f6bb.chunk.css",
+    "main.js": "/barcaayush1/nirmalbhattarai/static/js/main.03a6017c.chunk.js",
+    "main.js.map": "/barcaayush1/nirmalbhattarai/static/js/main.03a6017c.chunk.js.map",
+    "runtime-main.js": "/barcaayush1/nirmalbhattarai/static/js/runtime-main.d1315ea7.js",
+    "runtime-main.js.map": "/barcaayush1/nirmalbhattarai/static/js/runtime-main.d1315ea7.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/barcaayush1/nirmalbhattarai/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9ad97ca9.chunk.js": "/barcaayush1/nirmalbhattarai/static/js/2.9ad97ca9.chunk.js",
+    "static/js/2.9ad97ca9.chunk.js.map": "/barcaayush1/nirmalbhattarai/static/js/2.9ad97ca9.chunk.js.map",
+    "index.html": "/barcaayush1/nirmalbhattarai/index.html",
+    "precache-manifest.1fcf862a241f4ace68be0d7a625f5d21.js": "/barcaayush1/nirmalbhattarai/precache-manifest.1fcf862a241f4ace68be0d7a625f5d21.js",
+    "service-worker.js": "/barcaayush1/nirmalbhattarai/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/barcaayush1/nirmalbhattarai/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.12b3f6bb.chunk.css.map": "/barcaayush1/nirmalbhattarai/static/css/main.12b3f6bb.chunk.css.map",
+    "static/js/2.9ad97ca9.chunk.js.LICENSE.txt": "/barcaayush1/nirmalbhattarai/static/js/2.9ad97ca9.chunk.js.LICENSE.txt",
+    "static/media/Profile.jpg": "/barcaayush1/nirmalbhattarai/static/media/Profile.2cddedca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1315ea7.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9ad97ca9.chunk.js",
+    "static/css/main.12b3f6bb.chunk.css",
+    "static/js/main.03a6017c.chunk.js"
+  ]
+}
